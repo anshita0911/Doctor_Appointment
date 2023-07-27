@@ -14,7 +14,14 @@ Java Spring Boot: The backend framework used to build the web application.
 MySQL: The database management system to store and retrieve data.
 
 Screenshots
-https://postimg.cc/gallery/c0JwTKx
+[url=https://postimages.org/][img]https://i.postimg.cc/T5MwNvzJ/Whats-App-Image-2023-06-30-at-14-15-39.jpg[/img][/url]
+
+[url=https://postimages.org/][img]https://i.postimg.cc/PvWqBFhs/Whats-App-Image-2023-06-30-at-14-16-28.jpg[/img][/url]
+
+[url=https://postimages.org/][img]https://i.postimg.cc/K4B4k4Tq/Whats-App-Image-2023-06-30-at-14-19-03.jpg[/img][/url]
+
+[url=https://postimages.org/][img]https://i.postimg.cc/qzrq80Xk/Whats-App-Image-2023-06-30-at-14-19-24.jpg[/img][/url]
+
 
 
 Contributors
